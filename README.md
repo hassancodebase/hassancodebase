@@ -79,24 +79,7 @@ mantra: "Build things that matter. Ship things that work."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hassancodebase&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassancodebase&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=hassancodebase&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hassancodebase&theme=tokyonight&no-frame=true&no-bg=true&column=6)
 
 </div>
 
