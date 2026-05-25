@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 👋 About Me
 
 ```yaml
@@ -24,13 +22,11 @@ mantra: "Build things that matter. Ship things that work."
 ```
 
 - 🎓 **BSSE 2024–2028** @ National University of Technology, Islamabad
-- 🤖 Passionate about **AI/ML** — from model training to real-world deployment
-- ☁️ Exploring **DevOps & Cloud** — infrastructure, pipelines, containers
-- 🔨 I build projects that solve actual problems — not just tutorials
-- 📊 Active on **[Kaggle](https://www.kaggle.com/hassancodebase/)** — datasets, notebooks & competitions
+- 🤖 Passionate about **AI/ML** - from model training to real-world deployment
+- ☁️ Exploring **DevOps & Cloud** - infrastructure, pipelines, containers
+- 🔨 I build projects that solve actual problems, not just tutorials
+- 📊 Active on **[Kaggle](https://www.kaggle.com/hassancodebase/)**
 - 🤝 Connect with me on **[LinkedIn](https://linkedin.com/in/malikhassanawan)**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -62,8 +58,6 @@ mantra: "Build things that matter. Ship things that work."
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -73,8 +67,6 @@ mantra: "Build things that matter. Ship things that work."
 | 🅿️ [**ParkNexus**](https://github.com/hassancodebase/ParkNexus) | Multi-level parking management system using advanced data structures | C++ |
 | 🏥 [**Hospital Management System**](https://github.com/hassancodebase/hospital-management-system) | Desktop HMS built with Java Swing & MySQL for OOP coursework | Java · MySQL |
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -82,8 +74,6 @@ mantra: "Build things that matter. Ship things that work."
 ![GitHub Streak](https://streak-stats.demolab.com?user=hassancodebase&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8)
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -94,8 +84,6 @@ mantra: "Build things that matter. Ship things that work."
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassancodebase)
 
 </div>
-
----
 
 <div align="center">
 
